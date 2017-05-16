@@ -1,0 +1,99 @@
+#questions
+{
+	display: flex;
+	flex-direction: column;
+	margin: 50px 10px 0px 10px;
+	min-width: 400px;
+}
+#textField
+{
+	width: 25%;
+	display: block;
+	float: right; clear: right;
+}
+#submitButton
+{
+	display: block;
+	width: 25.5%;
+	margin: 20px 0px 35px 74.5%;
+
+}
+#menuBar
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	width: 35%;
+	margin: 0 auto;
+	height: 45px;
+	line-height: 0px;
+	background-color: red;
+	color: white;
+	padding: 0px 150px 0px 25px;
+}
+#storyText
+{
+	display: block;
+	width: 30%;
+	margin: 75px 0px 0px 11px;
+	padding-bottom: 10px;
+	min-width: 500px;
+}
+#page
+{
+	width: 40%;
+	min-width: 500px;
+	background-color: white;
+	margin: 0 auto 100px;
+	box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.5);
+}
+header
+{
+	text-align: center;
+}
+body
+{
+	background-color: #494747;
+}
+p
+{
+	margin-top: 25px;
+}
+h1
+{
+	font-family: fantasy;
+	font-size: 500%;
+	color: white;
+	text-shadow: 0px 0px 20px #000000;
+}
+nav
+{
+	background-color: red;
+	width: 100%;
+	padding: 1% 0%;
+}
+h2
+{
+	float: left; clear: left;
+	margin: 5% 100% 0% 1.5%;
+	width: 200px;
+}
+a
+{
+	margin: 0% 5% 0% 5%;
+	text-decoration: none;
+	color: white;
+}
+a:hover
+{
+	text-decoration: none;
+	color: black;
+}
+footer
+{
+	background-color: #585858;
+	text-align: center;
+	padding: 10px 0px;
+	color: #CDC5C5;
+	font-size: 90%;
+}
